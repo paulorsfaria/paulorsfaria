@@ -1,5 +1,6 @@
-### Hi there 👋
+# Paulo Faria
 
+** 42 Porto Student **
 <!--
 **paulorsfaria/paulorsfaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
