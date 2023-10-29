@@ -1,6 +1,6 @@
 # Paulo Faria
 
-** 42 Porto Student **
+**`42 Porto Student`**
 
 
 <p width =100% height=100% align="center">
