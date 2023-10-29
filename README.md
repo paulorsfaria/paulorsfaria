@@ -1,6 +1,10 @@
 # Paulo Faria
 
 ** 42 Porto Student **
+
+![](https://github.com/paulorsfaria/VimWAsAnInsideJob/blob/main/jedi-bear-jedi.gif)
+
+
 <!--
 **paulorsfaria/paulorsfaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
