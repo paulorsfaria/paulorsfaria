@@ -8,6 +8,5 @@
 </p>
 <p width =100% height=100% align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=paulorsfaria&theme=chartreuse-dark&show_icons=true">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=paulorsfaria&theme=chartreuse-dark&">
-
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=paulorsfaria&theme=chartreuse-dark&show_icons=true">
 </p>
