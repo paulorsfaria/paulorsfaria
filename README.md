@@ -15,9 +15,8 @@ I’m an **aspiring software developer** currently studying at **42 Porto**, whe
 
 ## 🛠️ Tech & Tools
 - **Languages**: C, C++, Shell  
-- **Focus Areas**: System-level programming, software testing  
-- **Currently Working On**: `Webserver` project @ 42 Porto  
-
+- **Focus Areas**: System-level programming, software testing
+  
 ---
 
 ## 🌍 Connect With Me
